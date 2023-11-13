@@ -6,6 +6,7 @@ print(type(nome))
 print(nome[0])
 print(len(sobrenome))
 
+
 print('\n')
 print("-------------------------")
 
